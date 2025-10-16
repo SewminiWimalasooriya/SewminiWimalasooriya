@@ -13,7 +13,7 @@
 - 🔭 Currently working as a **Software Engineer Intern** at SellerTower, Kandy  
 - 🎓 Studying **Applied Information Technology** at SLTC Research University (GPA: 3.35)  
 - 🌱 Learning **MERN Stack** & enhancing my front-end skills with **React** and **Tailwind CSS**  
-- 💬 Ask me about `.NET`, `React`, `JavaScript`, and `Web Development`  
+- 💬 Ask me about `React`, `JavaScript`, and `Web Development`  
 - ⚡ Fun fact: I love coding challenges, music 🎧, and UI design 🎨  
 
 ---
@@ -55,7 +55,6 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SewminiWimalasooriya&theme=tokyonight&hide_border=true" /><br>
- 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SewminiWimalasooriya&theme=tokyo-night" />
 </p>
 
@@ -89,4 +88,4 @@
   <b>⭐ “Code. Learn. Create. Repeat.” ⭐</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=SewminiWimalasooriya&style=flat-square&color=blue" alt="Profile views"/>
 </p>
---
+
