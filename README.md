@@ -10,7 +10,7 @@
 ---
 
 ### 🧠 About Me  
-- 🔭 Currently working as a **Software Engineer Intern** at SellerTower, Kandy  
+- 🔭 Recently worked as a **Software Engineer Intern** at SellerTower, Kandy  
 - 🎓 Studying **Applied Information Technology** at SLTC Research University (GPA: 3.35)  
 - 🌱 Learning **MERN Stack** & enhancing my front-end skills with **React** and **Tailwind CSS**  
 - 💬 Ask me about `React`, `JavaScript`, and `Web Development`  
