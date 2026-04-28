@@ -10,7 +10,6 @@
 ---
 
 ### 🧠 About Me  
-- 🔭 Recently worked as a **Software Engineer Intern** at SellerTower, Kandy  
 - 🎓 Studying **Applied Information Technology** at SLTC Research University (GPA: 3.35)  
 - 🌱 Learning **MERN Stack** & enhancing my front-end skills with **React** and **Tailwind CSS**  
 - 💬 Ask me about `React`, `JavaScript`, and `Web Development`  
@@ -21,7 +20,7 @@
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,materialui,nodejs,express,mongodb,java,python,php,mysql,git,github,gitlab,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,materialui,nodejs,express,mongodb,java,python,php,mysql,git,github,gitlab,vscode,simentic ui" />
 </p>
 
 ---
@@ -66,7 +65,8 @@
 
 | 💼 Work Experience | 🧩 Projects | 🎯 Goals |
 |--------------------|-------------|-----------|
-| SellerTower (Intern) | 10+ Completed | Become a Full Stack Engineer |
+| SellerTower (Intern) | 5+ Completed | Become a Full Stack Engineer |
+| Hikvision Sri Lanka (Trainee)  | 6+ Completed | Become a Full Stack Engineer |
 
 </div>
 
