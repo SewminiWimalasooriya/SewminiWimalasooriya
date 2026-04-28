@@ -63,6 +63,13 @@
 
 ---
 <div align="center">
+
+### 🎯 Current Focus
+🚀 Building full-stack applications  
+📚 Learning advanced React & backend architecture  
+💡 Improving problem-solving skills  
+
+---
   
 ### 🏆 Achievements & Highlights 
 <br>
@@ -92,13 +99,6 @@
   </a>
 </p>
 </div>
-
----
-
-### 🎯 Current Focus
-🚀 Building full-stack applications  
-📚 Learning advanced React & backend architecture  
-💡 Improving problem-solving skills  
 
 ---
 
