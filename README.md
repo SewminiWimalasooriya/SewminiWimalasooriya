@@ -1,26 +1,30 @@
 <!-- 💻 Professional Dynamic GitHub Profile README for Sewmini Wimalasooriya -->
 
-<h1 align="center">👋 Hi, I'm <span style="color:#667eea;">Sewmini Wimalasooriya</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#667eea;">Sewmini </span></h1>
 
 <p align="center">
-  <b>🎓 Undergraduate | 💻 Software Engineer | 🌱 Full Stack Developer</b><br>
+  <b>🎓 Undergraduate | 💻 Aspiring Software Engineer | 🌱  MERN Stack Developer </b><br>
   Passionate about building user-friendly, scalable web applications and exploring new technologies.
 </p>
 
 ---
 
-### 🧠 About Me  
-- 🎓 Studying **Applied Information Technology** at SLTC Research University (GPA: 3.35)  
-- 🌱 Learning **MERN Stack** & enhancing my front-end skills with **React** and **Tailwind CSS**  
-- 💬 Ask me about `React`, `JavaScript`, and `Web Development`  
-- ⚡ Fun fact: I love coding challenges, music 🎧, and UI design 🎨  
+### 🧠 About Me
+
+🎓 Undergraduate in Applied Information Technology at SLTC Research University (GPA: 3.35)  
+💻 Passionate about Web Development with a focus on the MERN stack  
+🌱 Currently learning React, TypeScript & Tailwind CSS  
+💬 Ask me about JavaScript, React, and Web Development  
+🎯 Goal: Become a Full Stack Software Engineer  
+⚡ Fun fact: I love coding challenges, music 🎧, and UI design 🎨  
 
 ---
 
 ### 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,materialui,nodejs,express,mongodb,java,python,php,mysql,git,github,gitlab,vscode,simentic ui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,materialui,nodejs,express,mongodb,java,python,php,mysql,git,github,gitlab,vscode" />
+  
 </p>
 
 ---
@@ -33,8 +37,8 @@
 #### 🎓 Student Management System  
 > CRUD system for managing student data using React and Node.js.  
 
-#### 🛒 E-commerce Website  
-> Online beauty product store built with HTML, CSS, and JavaScript.  
+#### 🏥 Health Management System 
+> A web-based health management system built using PHP Laravel and MySQL.
 
 #### 💬 2D Adventure Boy Game  
 > JavaScript game featuring levels, lives, and score tracking.  
@@ -54,7 +58,7 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SewminiWimalasooriya&theme=tokyonight&hide_border=true" /><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SewminiWimalasooriya&theme=tokyo-night" />
+  
 </p>
 
 ---
@@ -74,7 +78,7 @@
 
 <div align="center">
   
-### 📫 Connect With Me  
+### 🌐 Connect With Me  
 <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/sewmini-wimalasooriya" target="_blank">
@@ -91,8 +95,16 @@
 
 ---
 
+### 🎯 Current Focus
+🚀 Building full-stack applications  
+📚 Learning advanced React & backend architecture  
+💡 Improving problem-solving skills  
+
+---
+
 <p align="center">
   <b>⭐ “Code. Learn. Create. Repeat.” ⭐</b><br><br>
   <img src="https://komarev.com/ghpvc/?username=SewminiWimalasooriya&style=flat-square&color=blue" alt="Profile views"/>
 </p>
+
 
