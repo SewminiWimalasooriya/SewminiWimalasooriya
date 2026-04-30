@@ -77,7 +77,7 @@
 | 💼 Work Experience | 🧩 Projects | 🎯 Goals |
 |--------------------|-------------|-----------|
 | SellerTower (Intern) | 5+ Completed | Become a Full Stack Engineer |
-| Hikvision Sri Lanka (Trainee)  | 6+ Completed | Become a Full Stack Engineer |
+| Hikvision Sri Lanka  | 6+ Completed | Become a Full Stack Engineer |
 
 </div>
 
